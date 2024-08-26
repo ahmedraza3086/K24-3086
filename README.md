@@ -1,4 +1,5 @@
 # K24-3086
+# PSEUDOCODE Question 1
 > Find the maximum number in any of the three variables.
 # Start 
 Inpur Number 1\
@@ -13,3 +14,5 @@ Else,\
 If Number 3 > Number 1 and Number 3 > Number 2\
 then, Print "**Number 3 is maximum**"\
 # End
+
+# PSEUDOCODE Question 2
