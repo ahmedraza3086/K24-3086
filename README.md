@@ -1,9 +1,9 @@
 # K24-3086
-# Introduction
+## Introduction
 My name is Ahmed Raza. I am currently doing my Bachelor's in Software Engineering at Fast National University.\
 My Roll Number is 24K-3086.\
 ![Image](https://avatars.githubusercontent.com/u/179470436?s=400&u=7b17ef6ce6b5aba7a2becf5164283629537327aa&v=4)
-## Hobbies
+### Hobbies
 1.Watching Movie  
 2.Reading Books\
 3.Eating Food
@@ -16,9 +16,9 @@ My Roll Number is 24K-3086.\
 
 
 
-# PSEUDOCODE Question 1
+## PSEUDOCODE Question 1
 > Find the maximum number in any of the three variables.
-# Start 
+### Start 
 Inpur Number 1\
 Input Number 2\
 Input Number 3\
@@ -30,11 +30,11 @@ then, Print "**Number 2 is maximum**"\
 Else,\
 If Number 3 > Number 1 and Number 3 > Number 2\
 then, Print "**Number 3 is maximum**"\
-# End
+### End
 
-# PSEUDOCODE Question 2
+## PSEUDOCODE Question 2
 > Take three variables as input and add them without using the + operator 
-# Start
+### Start
 Input Number 1\
 Input Number 2\
 Input Number 3\
@@ -47,11 +47,11 @@ C = Number 3 * (-1)\
 For *Z*\
 Z = B - C\
 Print "**Z**"
-# End
+### End
 
-# PSEUDOCODE Question 3
+## PSEUDOCODE Question 3
 > Create a small calculator which only does ‘+’ or ‘-‘Operations.
-# Start
+### Start
 Input Number 1\
 Input Number 2\
 Input Operator\
@@ -64,11 +64,11 @@ If Operator = "**-**"\
 then,\
 z = Number 1 - Number 2\
 Print "**z**"\
-# End
+### End
 
-# ALGORITHM Question 1
+## ALGORITHM Question 1
 > Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
-# Start
+### Start
 Ask User to Input "**n**"\
 Ask User to Input "**N**"\
 Divide "**n**" by "**N**"\
@@ -82,11 +82,11 @@ then,\
 Print "**N is even**"\
 Else,\
 Print "**N is odd**"\
-# End
+### End
 
-# ALGORITHM Question 2
+## ALGORITHM Question 2
 > Implement an algorithm where the user enters a number, and an appropriate month is displayed.
-# Start
+### Start
 Input "**Number**"\
 If Number = 1\ 
 Display = "**January**"\
@@ -114,11 +114,11 @@ If Number = 12\
 Display = "**December**"\
 If Number > 12\
 Display "**Invalid Input**"
-# End
+### End
 
-# ALGORITHM Question 3
+## ALGORITHM Question 3
 > Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
-# Start
+### Start
 Input Number 1\
 Input Number 2\
 Input Operator\
@@ -136,4 +136,4 @@ Print "**Product**"\
 If Operator = "**/**"\
 then,\
 Print "**Quotient**"
-# End
+### End
