@@ -16,3 +16,18 @@ then, Print "**Number 3 is maximum**"\
 # End
 
 # PSEUDOCODE Question 2
+> Take three variables as input and add them without using the + operator 
+# Start
+Input Number 1\
+Input Number 2\
+Input Number 3\
+For *A*\
+A = Multiply Number 2 * (-1)\
+For *B*\
+B = Number 1 - A\
+For *C*\
+C = Number 3 * (-1)\
+For *Z*\
+Z = B - C\
+Print "**Z**"
+# End
