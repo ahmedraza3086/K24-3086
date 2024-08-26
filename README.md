@@ -66,3 +66,35 @@ Print "**N is even**"\
 Else,\
 Print "**N is odd**"\
 # End
+
+# ALGORITHM Question 2
+> Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+# Start
+Input "**Number**"\
+If Number = 1\ 
+Display = "**January**"\
+If Number = 2\
+Display = "**February**"\
+If Number = 3\
+Display = "**March**"\
+If Number = 4\
+Display = "**April**"\
+If Number = 5\
+Display = "**May**"\
+If Number = 6\
+Display = "**June**"\
+If Number = 7\
+Display = "**July**"\
+If Number = 8\
+Display = "**August**"\
+If Number = 9\
+Display = "**September**"\
+If Number = 10\
+Display = "**October**"\
+If Number = 11\
+Display = "**November**"\
+If Number = 12\
+Display = "**December**"\
+If Number > 12\
+Display "**Invalid Input**"
+# End
