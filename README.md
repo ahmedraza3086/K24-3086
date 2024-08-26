@@ -31,3 +31,21 @@ For *Z*\
 Z = B - C\
 Print "**Z**"
 # End
+
+# PSEUDOCODE Question 3
+> Create a small calculator which only does ‘+’ or ‘-‘Operations.
+# Start
+Input Number 1\
+Input Number 2\
+Input Operator\
+If Operator = "**+**"\
+then,\
+y = Number 1 + Number 2\
+Print "**y**"\
+Else,\
+If Operator = "**-**"\
+then,\
+z = Number 1 - Number 2\
+Print "**z**"\
+# End
+
