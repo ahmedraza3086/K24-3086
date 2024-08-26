@@ -49,3 +49,20 @@ z = Number 1 - Number 2\
 Print "**z**"\
 # End
 
+# ALGORITHM Question 1
+> Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+# Start
+Ask User to Input "**n**"\
+Ask User to Input "**N**"\
+Divide "**n**" by "**N**"\
+y = n/N\
+If remainder is zero\
+Print "**N is a divisor of n**"\
+Divide y by 2\
+y/2\
+If remainder is zero\
+then,\
+Print "**N is even**"\
+Else,\
+Print "**N is odd**"\
+# End
