@@ -98,3 +98,25 @@ Display = "**December**"\
 If Number > 12\
 Display "**Invalid Input**"
 # End
+
+# ALGORITHM Question 3
+> Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+# Start
+Input Number 1\
+Input Number 2\
+Input Operator\
+If Operator = "**+**"\
+then,\
+Sum = Number 1 + Number 2\
+Print "**Sum**"\
+If Operator = "**-**"\
+then,\
+Difference = Number 1 - Number 2\
+Print "**Difference**"\
+If Operator = "*****"\
+then,\
+Print "**Product**"\
+If Operator = "**/**"\
+then,\
+Print "**Quotient**"
+# End
