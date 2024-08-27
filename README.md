@@ -4,9 +4,9 @@ My name is Ahmed Raza. I am currently doing my Bachelor's in Software Engineerin
 My Roll Number is 24K-3086.\
 ![Image](https://avatars.githubusercontent.com/u/179470436?s=400&u=7b17ef6ce6b5aba7a2becf5164283629537327aa&v=4)
 ### Hobbies
-1.Watching Movie  
-2.Reading Books\
-3.Eating Food
+- Watching Movie  
+- Reading Books
+- Eating Food
 
 
 
